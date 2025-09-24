@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c4ee62ed75feeea4491bf1012c15b953
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bulletSpriteTransform: {instanceID: 0}
+  - explosionPosition: {instanceID: 0}
+  - playerExplosion: {instanceID: 0}
+  - groundExplosion: {instanceID: 0}
+  - explosionVFX: {fileID: 3590867143829595386, guid: f8dd01e5b52329d4a8bbc0d72f9a8a6f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -19,6 +19,8 @@ Controls:
 
 Gather your friends and find out who will be the last toast standing!
 
+Play now: [dewle.itch.io/toast](https://dewle.itch.io/toast)
+
 Made in Unity 2022.3.37f1.
 
 ![Toasts Gameplay1](Toasts/Assets/Sprites/ss1.png)
